@@ -3,7 +3,7 @@
   <h5><i>Serverless 自部署订阅转换工具最佳实践</i></h5>
   
   <a href="https://trendshift.io/repositories/12291" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/12291" alt="7Sageer%2Fsublink-worker | Trendshift" width="250" height="55"/>
+    <img src="https://trendshift.io/api/badge/repositories/12291" alt="gzdiky-ui%2Fsublink-worker | Trendshift" width="250" height="55"/>
   </a>
   
   <!-- <p>
@@ -70,8 +70,8 @@ npm run deploy
 
 ### 2025-05-02
 
-- 现在如果存在相同名称的代理，会自动进行重命名([#175](https://github.com/7Sageer/sublink-worker/pull/175))
-- 修复Singbox的DNS配置([#174](https://github.com/7Sageer/sublink-worker/pull/174))
+- 现在如果存在相同名称的代理，会自动进行重命名([#175](https://github.com/gzdiky-ui/sublink-worker/pull/175))
+- 修复Singbox的DNS配置([#174](https://github.com/gzdiky-ui/sublink-worker/pull/174))
 
 ## 🔧 项目结构
 
@@ -124,17 +124,17 @@ npm run deploy
   </tr>
 </table>
   <p><b>NodeSupport赞助了本项目，感谢他们的支持！</b></p>
-  <p>如果您想赞助本项目，请联系开发者 <a href="https://github.com/7Sageer" style="text-decoration: none;">@7Sageer</a></p>
+  <p>如果您想赞助本项目，请联系开发者 <a href="https://github.com/gzdiky-ui" style="text-decoration: none;">@gzdiky-ui</a></p>
 </div>
 
 ## ⭐ Star History
 
 感谢所有为本项目点亮 Star 的朋友们！🌟
 
-<a href="https://star-history.com/#7Sageer/sublink-worker&Date">
+<a href="https://star-history.com/#gzdiky-ui/sublink-worker&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=7Sageer/sublink-worker&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gzdiky-ui/sublink-worker&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gzdiky-ui/sublink-worker&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gzdiky-ui/sublink-worker&type=Date" />
  </picture>
 </a> 
